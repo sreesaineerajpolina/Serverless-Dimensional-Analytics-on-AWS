@@ -1,4 +1,4 @@
-Serverless Dimensional Analytics on AWS
+# Serverless Dimensional Analytics on AWS
 
 Overview
 
